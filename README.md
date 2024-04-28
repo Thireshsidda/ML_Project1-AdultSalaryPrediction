@@ -3,7 +3,6 @@
 ### Adult Salary Prediction: Can Machine Learning Predict Your Earning Power?
 This project tackles the intriguing question: can machine learning predict adult salary based on sociodemographic factors? We delve into the Adult UCI Machine Learning Repository dataset to train a model that estimates whether someone makes an annual salary exceeding $50,000.
 
-Salary Distribution: image_link (Visualize the Salary Gap! - Replace with a link to your salary distribution image)
 
 ### Explore the Power of Data Science:
 
